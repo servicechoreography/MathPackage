@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <PackageId>MathPackage</PackageId>
+    <Version>1.0.0</Version>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Test</Authors>
+   <Company>AT</Company>
+  </PropertyGroup>
+
+</Project>
